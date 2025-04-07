@@ -27,12 +27,6 @@ An automated trading agent that analyzes market conditions, generates trading su
    ```
 4. Run the agent: `python main.py`
 
-## Deployment
-
-For deployment instructions, see:
-- [Google Cloud Platform Deployment](docs/gcp_deployment.md)
-- [Oracle Cloud Deployment](docs/oracle_deployment.md)
-
 ## License
 
 MIT 
